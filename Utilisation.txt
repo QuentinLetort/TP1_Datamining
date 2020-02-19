@@ -1,0 +1,6 @@
+Depuis le repertoire courant, ouvrez un terminal et exécutez les commandes suivantes:
+
+cd weka-src/dist/
+java -Xmx6000m -jar weka.jar 
+(l'option -Xmx6000m permet d'allouer 6Go de RAM pour Weka)
+
